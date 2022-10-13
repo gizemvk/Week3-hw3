@@ -6,16 +6,16 @@ Nesne tabanlı programlama (Object Oriented Programming: OOP) ödev teslim kodla
 
 Bu ödev sayesinde OOP kavramları pekiştirildi:
 
-Class
-Object
-Method and method passing
-Pillars of OOPs
-Abstraction (Soyutlama)
-Encapsulation(Kapsülleme)
-Inheritance (Miras Alma)
-Polymorphism(Çok Biçimlilik)
+Class,
+Object,
+Method and method passing,
+Pillars of OOPs,
+Abstraction (Soyutlama),
+Encapsulation(Kapsülleme),
+Inheritance (Miras Alma),
+Polymorphism(Çok Biçimlilik),
 
-OOPS-concepts 
+
 İsterler:
 kodlama.io web sitesinin ana sayfasında bulunan eğitmen, kategori ve kurs bölümlerini katmanlı mimaride kodlamak istiyoruz.
 Önceki derste yaptığımız tekniklerle hem jdbc hem de hibernate üzerinde yazmış gibi simüle ediniz.
