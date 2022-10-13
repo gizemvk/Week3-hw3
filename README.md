@@ -1,7 +1,8 @@
-# Week3-hw3
-kodlama-io 
-Bu repo, Engin Demiroğ'un Java-2022 kursu kapsamında, 3. haftanın,
-Nesne tabanlı programlama (Object Oriented Programming: OOP) ödev teslim kodlarıdır.
+Merhaba;
+Bu repository içeriğinde,
+Engin Demiroğ'un Java-2022 kursu kapsamında,
+3. haftanın,
+Nesne tabanlı programlama (Object Oriented Programming: OOP) ödev teslim kodları bulunmaktadır.
 
 Bu ödev sayesinde OOP kavramları pekiştirildi:
 
